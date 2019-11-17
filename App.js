@@ -10,7 +10,7 @@ constructor(props)
 {
   super(props);
   console.disableYellowBox = true;
-  this.state = {apiKey : 'AIzaSyAjAH01s0RhAAtjr29PbelSYFrLmx_w8WI' , from : null, to : null};
+  this.state = {apiKey : 'API HERE' , from : null, to : null};
 }
 
 map;
